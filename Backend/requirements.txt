@@ -1,0 +1,10 @@
+Django
+djangorestframework
+django-filter
+django-cors-headers
+numpy
+scikit-learn
+pandas
+hazm
+gensim
+dill
